@@ -1,7 +1,7 @@
 # Topic-Modeling-of-Psychotherapist-Remarks
 
 [Project.](https://github.com/VadZhen/Topic-Modeling-of-Psychotherapist-Remarks/blob/main/GITHUB_Classic_modern_Eng_sessions(BertTopic)_(United_model).ipynb) |
-[Article.](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1608163/full](https://github.com/VadZhen/Topic-Modeling-of-Psychotherapist-Remarks/blob/main/fpsyt-3-1608163.pdf)
+[Article.](https://github.com/VadZhen/Topic-Modeling-of-Psychotherapist-Remarks/blob/main/fpsyt-3-1608163.pdf)
 
 **Description of the project:** This project applies BERTopic, a topic modeling technique, to two corpora of psychotherapist remarks—one from a classical approach and one from a modern approach. The goal is to analyze the differences in topics between the two sets of remarks within a psychotherapeutic context. 
 
